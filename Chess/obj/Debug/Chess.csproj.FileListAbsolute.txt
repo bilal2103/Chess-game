@@ -1,0 +1,24 @@
+C:\Users\Dell\OneDrive\Desktop\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\Dell\OneDrive\Desktop\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\Dell\OneDrive\Desktop\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\Dell\OneDrive\Desktop\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\Chess\Chess\obj\Debug\Chess.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\OneDrive\Desktop\Chess\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\Chess\Chess\obj\Debug\Chess.LoadingScreen.resources
+C:\Users\Dell\OneDrive\Desktop\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\Dell\OneDrive\Desktop\Chess\Chess\obj\Debug\Chess.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP project\Chess\Chess\bin\Debug\Chess.exe.config
+C:\Users\Dell\OneDrive\Desktop\OOP project\Chess\Chess\bin\Debug\Chess.exe
+C:\Users\Dell\OneDrive\Desktop\OOP project\Chess\Chess\bin\Debug\Chess.pdb
+C:\Users\Dell\OneDrive\Desktop\OOP project\Chess\Chess\obj\Debug\Chess.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive\Desktop\OOP project\Chess\Chess\obj\Debug\Chess.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\OneDrive\Desktop\OOP project\Chess\Chess\obj\Debug\Chess.Form1.resources
+C:\Users\Dell\OneDrive\Desktop\OOP project\Chess\Chess\obj\Debug\Chess.LoadingScreen.resources
+C:\Users\Dell\OneDrive\Desktop\OOP project\Chess\Chess\obj\Debug\Chess.Properties.Resources.resources
+C:\Users\Dell\OneDrive\Desktop\OOP project\Chess\Chess\obj\Debug\Chess.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive\Desktop\OOP project\Chess\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\OOP project\Chess\Chess\obj\Debug\Chess.exe
+C:\Users\Dell\OneDrive\Desktop\OOP project\Chess\Chess\obj\Debug\Chess.pdb
